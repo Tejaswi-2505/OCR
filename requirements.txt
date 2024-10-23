@@ -4,3 +4,5 @@ pytesseract
 kivy
 PyOpenGL
 PyOpenGL_accelerate  
+opencv-python-headless
+
