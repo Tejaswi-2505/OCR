@@ -2,3 +2,5 @@ opencv-python
 Pillow
 pytesseract
 kivy
+PyOpenGL
+PyOpenGL_accelerate  
